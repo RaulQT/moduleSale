@@ -6,7 +6,7 @@
 //  Copyright © 2018 Raul. All rights reserved.
 //
 
-#include "sale.h"
+#include "sale.hpp"
 
 Sale::Sale(){
 }
